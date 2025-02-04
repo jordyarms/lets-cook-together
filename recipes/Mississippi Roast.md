@@ -1,6 +1,7 @@
 ---
 tags:
   - form/roast
+  - type/recipe
 ---
 
 ## Ingredients

@@ -1,6 +1,7 @@
 ---
 tags:
   - type/recipe
+  - type/recipe
 Date: 2023-10-29
 ---
 ## Ingredients

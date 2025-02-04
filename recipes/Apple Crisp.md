@@ -1,6 +1,7 @@
 ---
 tags:
   - meal/dessert
+  - type/recipe
 ---
 ## Ingredients
 - [M.::6 cups] peeled and sliced [[apple]]

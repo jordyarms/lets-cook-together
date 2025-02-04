@@ -1,6 +1,7 @@
 ---
 tags:
   - form/sauce
+  - type/recipe
 ---
 
 ## Ingredients 

@@ -1,6 +1,7 @@
 ---
 tags:
   - form/spread
+  - type/recipe
 ---
 
 ## Ingredients

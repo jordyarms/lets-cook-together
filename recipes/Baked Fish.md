@@ -1,6 +1,7 @@
 ---
 tags:
   - protein/fish
+  - type/recipe
 ---
 
 ## Ingredients	

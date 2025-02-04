@@ -1,6 +1,7 @@
 ---
 tags:
   - form/salad
+  - type/recipe
 ---
 
 ## Ingredients

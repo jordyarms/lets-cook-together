@@ -1,6 +1,7 @@
 ---
 tags:
   - carb/pasta
+  - type/recipe
 ---
 
 ## Ingredients

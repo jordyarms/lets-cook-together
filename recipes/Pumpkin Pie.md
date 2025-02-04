@@ -1,6 +1,7 @@
 ---
 tags:
   - meal/dessert
+  - type/recipe
 ---
 
 ## Ingredients

@@ -1,6 +1,7 @@
 ---
 tags:
   - criteria/vegetarian
+  - type/recipe
 ---
 
 ## Ingredients	

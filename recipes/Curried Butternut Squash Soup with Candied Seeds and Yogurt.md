@@ -1,6 +1,7 @@
 ---
 tags:
   - form/soup
+  - type/recipe
 ---
 
 ## Ingredient

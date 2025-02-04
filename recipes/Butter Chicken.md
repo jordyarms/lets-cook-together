@@ -1,6 +1,7 @@
 ---
 tags:
   - protein/chicken
+  - type/recipe
 ---
 
 ## Ingredients

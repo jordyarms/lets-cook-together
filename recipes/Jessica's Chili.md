@@ -1,7 +1,7 @@
 ---
 tags:
   - form/soup
-origin: "[[Jessica MacInnis]]"
+  - type/recipe
 ---
 
 ## Ingredients
