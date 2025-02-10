@@ -5,14 +5,14 @@ tags:
 ---
 
 ## Ingredients
-- [M.::2] tablespoons butter
-- [M.::1] small onion, chopped
-- [M.::1] stalk celery, chopped
-- [M.::1] medium carrot, chopped
-- [M.::2] medium potatoes, cubed
-- [M.::1] medium butternut squash - peeled, seeded, and cubed
-- [M.::1] (32 fluid ounce) container chicken stock
-- salt and freshly ground black pepper to taste
+- [ ] [M.::2] tablespoons [[butter]]
+- [ ] [M.::1] small [[onion]], chopped
+- [ ] [M.::1] stalk [[celery]], chopped
+- [ ] [M.::1] medium [[carrots|carrot]], chopped
+- [ ] [M.::2] medium [[potatoes]], cubed
+- [ ] [M.::1] medium [[butternut squash]] - peeled, seeded, and cubed
+- [ ] [M.::1] (32 fluid ounce) container [[chicken stock]]
+- [ ] [[salt]] and freshly ground black [[pepper]] to taste
 
 ## Directions
 - Step 1 – Gather all ingredients.

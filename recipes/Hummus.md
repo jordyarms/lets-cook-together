@@ -5,15 +5,15 @@ tags:
 ---
 
 ## Ingredients
-- [M.::250 g] chickpeas, *cooked* 
-- [M.::1/4 cup] fresh lemon juice, _1 large lemon_
-- [M.::1 clove] garlic, minced
-- [M.::1/4 cup] well-stirred tahini
-- [M.::2 tbsp] extra-virgin olive oil, _plus more for serving_
-- [M.::1/2 tsp] ground cumin
-- [M.::3 tbsp] water
-- Dash ground paprika or sumac
-- Salt to taste
+- [ ] [M.::250 g]  [[chickpeas]], *cooked* 
+- [ ] [M.::1/4 cup] fresh [[lemon juice]], _1 large lemon_
+- [ ] [M.::1 clove]  [[garlic]], minced
+- [ ] [M.::1/4 cup] well-stirred [[tahini]]
+- [ ] [M.::2 tbsp] extra-virgin [[olive oil]], _plus more for serving_
+- [ ] [M.::1/2 tsp]  [[ground cumin]]
+- [ ] [M.::3 tbsp] water
+- [ ] Dash ground [[paprika]] or [[sumac]]
+- [ ] [[Salt]] to taste
 
 ## Directions
 1. Step 1

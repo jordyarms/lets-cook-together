@@ -5,27 +5,30 @@ tags:
 ---
 
 ## Ingredients
-- [M.::1/2] bunch cilantro leaves, stems removed.
-- [M.::1/4 pound] unsalted butter
-- [M.::1] cinnamon stick
-- [M.::2] medium-size tomatoes, diced
-- [M.::2] medium-size yellow onions, peeled and diced
-- [M.::2] red chiles, like Anaheim, or 1 jalapeño pepper, seeded and diced
-- [M.::3 pounds] chicken thighs, on the bone
-- [M.::1 1/2 cups] cream
-- [M.::1 1/2 cups] full-fat Greek yogurt
-- [M.::1 1/2 tbsp] ground turmeric
-- [M.::1 1/2 tsp] tomato paste
-- [M.::1 tbsp] cumin seeds
-- [M.::2 tbsp] garam masala
-- [M.::2 tbsp] ground cumin
-- [M.::2 tbsp] lemon juice
-- [M.::2/3 cup] chicken stock, low-sodium or homemade
-- [M.::3 tbsp] fresh ginger, peeled and grated or finely diced
-- [M.::3 tbsp] ground almonds, or finely chopped almonds
-- [M.::4 cloves] garlic, peeled and minced
-- [M.::4 tsp] neutral oil, like vegetable or canola oil
-- Kosher salt to taste
+
+- [ ] [M.::1/4 pound] unsalted butter
+- [ ] [M.::2] medium-size tomatoes, diced
+- [ ] [M.::2] medium-size yellow onions, peeled and diced
+- [ ] [M.::3 pounds] chicken thighs, on the bone
+- [ ] [M.::1 1/2 cups] cream
+- [ ] [M.::1 1/2 cups] full-fat Greek yogurt
+- [ ] [M.::1 1/2 tsp] tomato paste
+- [ ] [M.::2/3 cup] chicken stock, low-sodium or homemade
+- [ ] [M.::3 tbsp] ground almonds, or finely chopped almonds
+- [ ] [M.::4 tsp] neutral oil, like vegetable or canola oil
+- [ ] Florals
+	- [ ] [M.::4 cloves] garlic, peeled and minced
+	- [ ] [M.::2 tbsp] lemon juice
+	- [ ] [M.::2] red chiles, like Anaheim, or 1 jalapeño pepper, seeded and diced
+	- [ ] [M.::1/2] bunch cilantro leaves, stems removed.
+	- [ ] [M.::3 tbsp] fresh ginger, peeled and grated or finely diced
+- [ ] Spices
+	- [ ] [M.::1 tbsp] cumin seeds
+	- [ ] [M.::2 tbsp] garam masala
+	- [ ] [M.::1 1/2 tbsp] ground turmeric
+	- [ ] [M.::1] cinnamon stick
+	- [ ] [M.::2 tbsp] ground cumin
+	- [ ] Kosher salt to taste
 
 ## Directions
 - Whisk together the yogurt, lemon juice, turmeric, garam masala and cumin in a large bowl. Put the chicken in, and coat with the marinade. Cover, and refrigerate (for up to a day).

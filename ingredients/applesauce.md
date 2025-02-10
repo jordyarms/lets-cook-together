@@ -1,5 +1,5 @@
 ---
-derived_from: "[[apple]]"
+derived_from: "[[apples]]"
 tags:
   - type/ingredient
 ---

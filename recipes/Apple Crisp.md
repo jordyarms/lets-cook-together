@@ -4,7 +4,7 @@ tags:
   - type/recipe
 ---
 ## Ingredients
-- [M.::6 cups] peeled and sliced [[apple]]
+- [M.::6 cups] peeled and sliced [[apples]]
 - [M.::1 cup] uncooked [[oats]]
 - [M.::1/2 cup] firmly packed [[brown sugar]]
 - [M.::1/3 cup]  [[flour]]

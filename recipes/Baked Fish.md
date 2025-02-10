@@ -5,11 +5,11 @@ tags:
 ---
 
 ## Ingredients	
-- 4 fish fillets or steaks of any kind of fish, skin on or off to taste
-- Extra-virgin [[olive oil]]
-- [[fine sea salt]]
-- Black pepper
-- [[lemon]] wedges, for serving
+- [ ] 4 [[fish fillets]] or steaks of any kind of fish, skin on or off to taste
+- [ ] Extra-virgin [[olive oil]]
+- [ ] [[salt, fine sea salt]]
+- [ ] Black [[pepper]]
+- [ ] [[lemon]] wedges, for serving
 
 ## Directions
 - Step 1

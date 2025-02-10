@@ -5,14 +5,14 @@ tags:
 ---
 
 ## Ingredients 
-- [M.::1/4 cup] white or cider vinegar
-- [M.::1/2 cup] neutral oil
-- [M.::1.5 tbsp] honey
-- [M.::1 tbsp] Dijon mustard
-- [M.::1 tbsp] chopped shallots
-- [M.::1 clove] of garlic, finely minced
-- Pinch of oregano
-- Salt & pepper to taste
+- [ ] [M.::1/4 cup] white or cider vinegar
+- [ ] [M.::1/2 cup] neutral oil
+- [ ] [M.::1.5 tbsp] honey
+- [ ] [M.::1 tbsp] Dijon mustard
+- [ ] [M.::1 tbsp] chopped shallots
+- [ ] [M.::1 clove] of garlic, finely minced
+- [ ] Pinch of oregano
+- [ ] Salt & pepper to taste
 
 ## Instructions
 1. Combine all ingredients (EXCEPT OIL) into a bowl or into a tall container that you can use a hand blenderin

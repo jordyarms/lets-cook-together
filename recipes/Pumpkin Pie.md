@@ -6,12 +6,12 @@ tags:
 
 ## Ingredients
 
-- [M.::1 cup]  [Ingredients::Brown Sugar]
-- [M.::1/2 tsp] [Ingredients::Salt]
-- [M.::1 tsp] [Ingredients::Cinnamon]
--  [M.::2] [Ingredients::Egg]
--  [M.::420 ml] [Ingredients::Pumpkin, Canned]
-- [M.::1 cup] of [Ingredients::Cream]
+- [ ] [M.::1 cup]   [[Brown Sugar]]
+- [ ] [M.::1/2 tsp]  [[Salt]]
+- [ ] [M.::1 tsp]  [[Cinnamon]]
+- [ ] [M.::2]  [[Eggs]]
+- [ ] [M.::420 ml]  [[Pumpkin, Canned]]
+- [ ] [M.::1 cup] of  [[Cream]]
 
 ## Directions
 - mix ingredients together

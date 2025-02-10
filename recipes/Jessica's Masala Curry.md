@@ -6,26 +6,25 @@ tags:
 
 ## Ingredients
 
-### Vegetables
-- [M.::3 cloves] of garlic chopped
-- [M.::1] can of chickpeas or lentils
-- [M.::2] carrots
-- [M.::1] medium onion chopped
-- spinach
-- potatoes
-- zucchini
-
-### Liquids
-- coconut milk
-- can of tomatoes
-
-### Spices
-- [M.::2 tbsp] yellow curry
-- [M.::1.5 tsp] turmeric
-- [M.::1 tsp] cumin
-- [M.::0.5 tsp] red pepper flakes
-- [M.::0.5 tsp] ground coriander
-- salt & pep to taste
+- [ ] Vegetables
+	- [ ] [M.::3 cloves] of garlic chopped
+	- [ ] [M.::1] can of chickpeas or lentils
+	- [ ] [M.::2]  [[carrots]]
+	- [ ] [M.::1] medium [[onion]] chopped
+	- [ ] [[spinach]]
+	- [ ] [[potatoes]]
+	- [ ] [[zucchini]]
+- [ ] Liquids
+	- [ ] [[Oil]]
+	- [ ] [[coconut milk]]
+	- [ ] can of [[tomatoes]]
+- [ ] Spices
+	- [ ] [M.::2 tbsp]  [[yellow curry]]
+	- [ ] [M.::1.5 tsp]  [[turmeric]]
+	- [ ] [M.::1 tsp]  [[cumin]]
+	- [ ] [M.::0.5 tsp]  [[red pepper flakes]]
+	- [ ] [M.::0.5 tsp]  [[ground coriander]]
+	- [ ] [[salt]] & [[pepper]] to taste
 
 ## Directions
 

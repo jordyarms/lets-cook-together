@@ -5,19 +5,19 @@ tags:
 ---
 
 ## Ingredients
-- 1 medium onion chopped
-- 3 cloves of garlic chopped
-- 2-3 carrots
-- 1 red bell pepper
-- 3 celery
-- whatever is in season
-- kidney or black beans
-- 28 oz of tomatos
-- chick stock, enough to cover
-- salt pepper
-- 2 tbsp of chilli powder
-- 1 tbsp of cumin
-- 2 tsp of paprika
+- [ ] 1 medium [[onion]] chopped
+- [ ] 3 cloves of [[garlic]] chopped
+- [ ] 2-3 [[carrots]]
+- [ ] 1 [[red bell pepper]]
+- [ ] 3 [[celery]]
+- [ ] whatever is in season
+- [ ] kidney or black [[beans]]
+- [ ] 28 oz of [[tomatoes]]
+- [ ] [[chick stock]], enough to cover
+- [ ] [[salt]] [[pepper]]
+- [ ] 2 tbsp of [[chilli powder]]
+- [ ] 1 tbsp of [[cumin]]
+- [ ] 2 tsp of [[paprika]]
 
 ## Directions
 1. Brown onion in oil 8 mins, 

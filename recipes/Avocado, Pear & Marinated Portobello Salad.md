@@ -2,31 +2,27 @@
 tags:
   - type/recipe
   - type/recipe
-Date: 2024-01-01
 ---
 
 
 ## Ingredients
 
-for the vinaigrette (makes ¾ cup):
-
-- ¼ cup [[apple cider vinegar]]
-- 3 tbsp [[olive oil]]
-- 2 tbsp [[balsamic vinegar]]
-- 2 tbsp unsweetened [[applesauce]] (can omit & replace with 1 tbsp olive oil + splash balsamic vin.)
-- 1 tbsp [[maple syrup]]
-- 1 ½ tsp [[dijon mustard]]
-- 2 cloves [[garlic]]
-- ¼ tsp [[salt]] & [[pepper]], to taste
-
-for the salad:
-
-- 2 large [[portobello mushrooms]]
-- 1 small [[red onion]], thinly sliced
-- 1 package [[mixed greens]]
-- 2 ripe [[pears]], peeled, cored and chopped
-- 1 [[avocado]], pitted and chopped
-- 1/3 cup [[walnuts]], toasted
+- [ ] for the vinaigrette (makes ¾ cup):
+	- [ ] ¼ cup [[apple cider vinegar]]
+	- [ ] 3 tbsp [[olive oil]]
+	- [ ] 2 tbsp [[balsamic vinegar]]
+	- [ ] 2 tbsp unsweetened [[applesauce]] (can omit & replace with 1 tbsp olive oil + splash balsamic vin.)
+	- [ ] 1 tbsp [[maple syrup]]
+	- [ ] 1 ½ tsp [[dijon mustard]]
+	- [ ] 2 cloves [[garlic]]
+	- [ ] ¼ tsp [[salt]] & [[ingredients/pepper]], to taste
+- [ ] for the salad:
+	- [ ] 2 large [[portobello mushrooms]]
+	- [ ] 1 small [[red onion]], thinly sliced
+	- [ ] 1 package [[mixed greens]]
+	- [ ] 2 ripe [[pears]], peeled, cored and chopped
+	- [ ] 1 [[avocado]], pitted and chopped
+	- [ ] 1/3 cup [[walnuts]], toasted
 
 
 ## Directions

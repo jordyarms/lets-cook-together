@@ -2,7 +2,6 @@
 tags:
   - type/recipe
   - type/recipe
-Date: 2024-01-01
 ---
 ## Ingredients
 | Units | Ingredients |

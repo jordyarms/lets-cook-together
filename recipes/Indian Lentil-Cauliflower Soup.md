@@ -2,24 +2,23 @@
 tags:
   - type/recipe
   - type/recipe
-Date: 2024-01-01
 ---
 
 ## Ingredients
 
-- 1 tbsp coconut oil (or other)
-- 1 yellow onion, diced
-- 3-4 cloves garlic, minced
-- 1 tbsp fresh ginger, peeled and minced
-- 1-2 tbsp curry powder, to taste
-- 1 1/2 tsp coriander
-- 1 tsp cumin
-- 6 cups veggie broth
-- 1 cup uncooked red lentils, rinsed and drained
-- 1 medium cauliflower, chopped into bite-sized pieces
-- 1-2 medium sweet potatoes, peeled and diced
-- 2 large handfuls of spinach
-- 3/4 tsp salt + pepper to taste
+- [ ] 1 tbsp [[coconut oil]] (or other)
+- [ ] 1 [[yellow onion]], diced
+- [ ] 3-4 cloves [[garlic]], minced
+- [ ] 1 tbsp fresh [[ginger]], peeled and minced
+- [ ] 1-2 tbsp [[curry powder]], to taste
+- [ ] 1 1/2 tsp [[coriander]]
+- [ ] 1 tsp [[cumin]]
+- [ ] 6 cups [[veggie broth]]
+- [ ] 1 cup uncooked [[red lentils]], rinsed and drained
+- [ ] 1 medium [[cauliflower]], chopped into bite-sized pieces
+- [ ] 1-2 medium [[sweet potatoes]], peeled and diced
+- [ ] 2 large handfuls of [[spinach]]
+- [ ] 3/4 tsp [[salt]] + [[pepper]] to taste
 
 ## Directions
 

@@ -5,12 +5,12 @@ tags:
 ---
 
 ## Ingredients
-- [M.::1] Egg
-- [M.::1 tbsp]Mustard
-- [M.::1 tbsp] Vinegar
-- [M.::1 tsp] Lemon juice
-- [M.::1 cup] Neutral Flavoured Oil
-- [M.::1/4 tsp] salt
+- [ ] [M.::1]  [[Eggs]]
+- [ ] [M.::1 tbsp] [[Mustard]]
+- [ ] [M.::1 tbsp]  [[Vinegar]]
+- [ ] [M.::1 tsp]  [[Lemon juice]]
+- [ ] [M.::1 cup] Neutral Flavoured [[Oil]]
+- [ ] [M.::1/4 tsp]  [[salt]]
 
 ## Directions
 1. **Prepare your food processor**. I prefer to use the small bowl attachment that came with our food processor to make mayonnaise.

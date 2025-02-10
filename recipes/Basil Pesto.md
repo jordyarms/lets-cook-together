@@ -5,13 +5,13 @@ tags:
 ---
 
 ## Ingredients
-- [M.::1 tbsp] toasted [[pine nuts]]
-- [M.::1 clove]  [[garlic]], peeled
-- [M.::2 cups] packed [[basil leaves]], preferably Genovese
-- [M.::2/3 cup] finely grate [[parmigiano-reggiano]]
-- [M.::1/3 cup] extra-virgin [[olive oil]]
-- [[fine sea salt]] & black [[pepper]]
-- spinach (optional)
+- [ ] [M.::1 tbsp] toasted [[pine nuts]]
+- [ ] [M.::1 clove]  [[garlic]], peeled
+- [ ] [M.::2 cups] packed [[basil leaves]], preferably Genovese
+- [ ] [M.::2/3 cup] finely grate [[parmesan]]
+- [ ] [M.::1/3 cup] extra-virgin [[olive oil]]
+- [ ] [[salt, fine sea salt]] & black [[pepper]]
+- [ ] [[spinach]] (optional)
 
 ## Instructions
 1. Heat a small pot over high heat and bring to a boil
