@@ -4,4 +4,5 @@ tags:
 aliases:
   - olive oil
   - oil, olive
+title: olive oil
 ---
