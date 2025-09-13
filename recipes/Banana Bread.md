@@ -7,17 +7,20 @@ tags:
 ---
 ## Ingredients 
 
-- [ ] 1 1/2 cups (380g) ripe and mashed [[banana]] (3-4 medium bananas), measured
-- [ ] 1/2 cup (100g) packed light [[brown sugar]]
-- [ ] 1/2 cup (100g) granulated [[sugar]]
-- [ ] 1/2 cup (110g) [[unsalted butter]], melted
-- [ ] 2 large [[eggs]]
-- [ ] 1 tsp [[vanilla extract]]
-- [ ] 1/2 cup (130g) 2% [[yogurt, greek]] (sour cream also works)
-- [ ] 1 1/3 cups (180g) all-purpose [[flour]]
-- [ ] 1 tsp [[baking soda]]
-- [ ] 1/2 tsp [[salt]]
-- [ ] 3/4 cup (140g) mini [[chocolate chips]] + a handful more for sprinkling on top
+- Dry Prep
+	- [ ] 1 1/3 cups (180g) all-purpose [[flour]]
+	- [ ] 1 tsp [[baking soda]]
+	- [ ] 1/2 tsp [[salt]]
+- Wet Prep
+	- [ ] 1/2 cup (100g) packed light [[brown sugar]]
+	- [ ] 1/2 cup (100g) granulated [[sugar]]
+	- [ ] 1/2 cup (110g) [[unsalted butter]], melted
+	- [ ] 1 1/2 cups (380g) ripe and mashed [[banana]] (3-4 medium bananas), measured
+	- [ ] 2 large [[eggs]]
+	- [ ] 1 tsp [[vanilla extract]]
+	- [ ] 1/2 cup (130g) 2% [[yogurt, greek]] (sour cream also works)
+- Optional:
+	- [ ] 3/4 cup (140g) mini [[chocolate chips]] + a handful more for sprinkling on top
 
 ## Instructions
 
