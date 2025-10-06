@@ -1,32 +1,159 @@
 ---
-recipe: Adam Ragusa - Bolognese Sauce
-source_url: https://youtu.be/V5WR-K0zJYs
-tags:
-  - type/recipe
+"@context": "https://schema.org"
+"@type": "Recipe"
+name: "Adam Ragusea's Bolognese Sauce"
+description: "Large-batch Bolognese sauce with ground meat, chicken livers, and aromatic vegetables. Makes about 6 quarts - perfect for freezing."
+author:
+  "@type": "Person"
+  name: "Adam Ragusea"
+  url: "https://www.youtube.com/watch?v=V5WR-K0zJYs"
+datePublished: "2025-10-04"
+prepTime: "PT20M"
+cookTime: "PT120M"
+totalTime: "PT140M"
+recipeCategory: ["Sauce", "Main Course"]
+recipeCuisine: ["Italian", "American"]
+keywords: ["bolognese", "meat-sauce", "batch-cooking", "freezer-meal"]
+recipeYield: "60 portions"
+recipeIngredient:
+  - "@type": "PropertyValue"
+    name: "olive-oil"
+    value: "as needed"
+    unitText: "tbsp"
+    description: "olive oil"
+    preparation: "for frying"
+    atomicIngredientRef: "[[olive-oil]]"
+  - "@type": "PropertyValue"
+    name: "carrots"
+    value: "1"
+    unitText: "lb"
+    description: "carrots"
+    preparation: "peeled and finely chopped"
+    atomicIngredientRef: "[[carrots]]"
+  - "@type": "PropertyValue"
+    name: "red-onion"
+    value: "1"
+    unitText: "large"
+    description: "large red onion"
+    preparation: "finely chopped"
+    atomicIngredientRef: "[[red-onion]]"
+  - "@type": "PropertyValue"
+    name: "chicken-livers"
+    value: "1"
+    unitText: "lb"
+    description: "chicken livers"
+    preparation: "finely chopped until almost pureed"
+    atomicIngredientRef: "[[chicken-livers]]"
+  - "@type": "PropertyValue"
+    name: "ground-beef"
+    value: "3"
+    unitText: "lbs"
+    description: "ground meat (beef and lamb)"
+    preparation: "none"
+    atomicIngredientRef: "[[ground-beef]]"
+  - "@type": "PropertyValue"
+    name: "tomato-paste"
+    value: "6"
+    unitText: "oz"
+    description: "tomato paste"
+    preparation: "none"
+    atomicIngredientRef: "[[tomato-paste]]"
+  - "@type": "PropertyValue"
+    name: "crushed-tomatoes"
+    value: "3"
+    unitText: "cans"
+    unitSize: "28 oz"
+    description: "crushed tomatoes"
+    preparation: "none"
+    atomicIngredientRef: "[[crushed-tomatoes]]"
+  - "@type": "PropertyValue"
+    name: "white-wine"
+    value: "1"
+    unitText: "bottle"
+    description: "white wine"
+    preparation: "none"
+    atomicIngredientRef: "[[white-wine]]"
+  - "@type": "PropertyValue"
+    name: "chicken-bouillon"
+    value: "as needed"
+    unitText: "tbsp"
+    description: "liquid chicken bouillon or stock cube"
+    preparation: "none"
+    atomicIngredientRef: "[[chicken-bouillon]]"
+  - "@type": "PropertyValue"
+    name: "oregano"
+    value: "1"
+    unitText: "tbsp"
+    description: "dried oregano"
+    preparation: "none"
+    atomicIngredientRef: "[[oregano]]"
+  - "@type": "PropertyValue"
+    name: "parsley"
+    value: "1"
+    unitText: "tbsp"
+    description: "dried parsley"
+    preparation: "none"
+    atomicIngredientRef: "[[parsley]]"
+  - "@type": "PropertyValue"
+    name: "basil"
+    value: "1"
+    unitText: "tbsp"
+    description: "dried basil"
+    preparation: "none"
+    atomicIngredientRef: "[[basil]]"
+  - "@type": "PropertyValue"
+    name: "thyme"
+    value: "1"
+    unitText: "tbsp"
+    description: "dried thyme"
+    preparation: "none"
+    atomicIngredientRef: "[[thyme]]"
+  - "@type": "PropertyValue"
+    name: "garlic-powder"
+    value: "1"
+    unitText: "tbsp"
+    description: "garlic powder"
+    preparation: "none"
+    atomicIngredientRef: "[[garlic-powder]]"
+  - "@type": "PropertyValue"
+    name: "balsamic-vinegar"
+    value: "0.25"
+    unitText: "cup"
+    description: "balsamic vinegar"
+    preparation: "none"
+    atomicIngredientRef: "[[balsamic-vinegar]]"
+  - "@type": "PropertyValue"
+    name: "black-pepper"
+    value: "to taste"
+    unitText: "tsp"
+    description: "black pepper"
+    preparation: "none"
+    atomicIngredientRef: "[[black-pepper]]"
+  - "@type": "PropertyValue"
+    name: "salt"
+    value: "to taste"
+    unitText: "tsp"
+    description: "salt"
+    preparation: "none"
+    atomicIngredientRef: "[[salt]]"
+recipeInstructions:
+  - "@type": "HowToStep"
+    name: "Cook vegetables"
+    text: "Peel and finely chop carrots and onion. In a large pot (at least 7 quarts), fry vegetables in olive oil on high heat until soft, stirring constantly. Transfer to a bowl."
+    cookTime: "PT10M"
+  - "@type": "HowToStep"
+    name: "Cook livers and meat"
+    text: "Finely chop livers until almost pureed. In the big pot, fry ground meat in olive oil on high heat, stirring and scraping constantly with a wooden spoon to prevent meatballs from forming. Cook until most water evaporates and pan starts to crackle."
+    cookTime: "PT15M"
+  - "@type": "HowToStep"
+    name: "Combine and simmer"
+    text: "Add chicken livers, tomato paste, crushed tomatoes, white wine, bouillon, dried herbs, garlic powder, balsamic vinegar, pepper and salt. Return vegetables to pot. Bring to boil, then reduce heat and simmer for at least 2 hours, stirring occasionally."
+    cookTime: "PT120M"
+  - "@type": "HowToStep"
+    name: "Store"
+    text: "Cool and portion into containers. Freeze what you won't use within a few days."
+video:
+  "@type": "VideoObject"
+  name: "Bolognese Sauce"
+  url: "https://www.youtube.com/watch?v=V5WR-K0zJYs"
 ---
-
-## Ingredients
-
-- Produce
-	- [ ] 1 lb [[carrots]]
-	- [ ] 1 large [[red onion|red onion]]
-- Meat
-	- [ ] 1 lb [[chicken livers]]
-	- [ ] 3 lbs [[ground beef]] (I like to use beef and lamb)
-- Canned Goods
-	- [ ] 6 oz can [[tomato paste]]
-	- [ ] 3 [[Crushed Tomatoes|28 oz cans crushed tomatoes]]
-- Packaged Goods
-	- [ ] 1 bottle [[white wine]]
-	- [ ] Liquid [[chicken bouillon]] (or a stock cube)
-- Spices
-	- [ ] 1 tbsp dried [[oregano]]
-	- [ ] 1 tbsp dried [[parsley]]
-	- [ ] 1 tbsp dried [[basil]]
-	- [ ] 1 tbsp dried [[thyme]]
-	- [ ] 1 tbsp [[garlic powder]]
-	- [ ] [[ingredients/pepper]]
-	- [ ] [[salt]]
-- Sauces
-	- [ ] 1/4 cup [[balsamic vinegar]]
-	- [ ] [[olive oil|olive oil]]

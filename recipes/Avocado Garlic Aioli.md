@@ -1,18 +1,65 @@
 ---
-tags:
-  - type/recipe
-  - type/recipe
+"@context": "https://schema.org"
+"@type": "Recipe"
+name: "Avocado Garlic Aioli"
+description: "Creamy vegan aioli made with ripe avocado, garlic, and lemon juice. Perfect as a spread or dipping sauce."
+datePublished: "2025-10-04"
+prepTime: "PT5M"
+totalTime: "PT5M"
+recipeCategory: ["Sauce", "Condiment"]
+recipeCuisine: ["International"]
+keywords: ["aioli", "vegan", "avocado", "garlic", "sauce"]
+recipeYield: "1 cup"
+recipeIngredient:
+  - "@type": "PropertyValue"
+    name: "garlic"
+    value: "3-4"
+    unitText: "cloves"
+    description: "garlic cloves"
+    preparation: "none"
+    atomicIngredientRef: "[[garlic]]"
+  - "@type": "PropertyValue"
+    name: "avocado"
+    value: "1"
+    unitText: "large"
+    description: "large ripe avocado"
+    preparation: "none"
+    atomicIngredientRef: "[[avocado]]"
+  - "@type": "PropertyValue"
+    name: "lemon-juice"
+    value: "1.5"
+    unitText: "tsp"
+    description: "fresh lemon juice"
+    preparation: "none"
+    atomicIngredientRef: "[[lemon-juice]]"
+  - "@type": "PropertyValue"
+    name: "mayo"
+    value: "0.25"
+    unitText: "cup"
+    description: "vegan mayo"
+    preparation: "none"
+    atomicIngredientRef: "[[mayo]]"
+  - "@type": "PropertyValue"
+    name: "salt"
+    value: "to taste"
+    unitText: "tsp"
+    description: "salt"
+    preparation: "none"
+    atomicIngredientRef: "[[salt]]"
+  - "@type": "PropertyValue"
+    name: "black-pepper"
+    value: "to taste"
+    unitText: "tsp"
+    description: "black pepper"
+    preparation: "none"
+    atomicIngredientRef: "[[black-pepper]]"
+recipeInstructions:
+  - "@type": "HowToStep"
+    name: "Process garlic"
+    text: "In a food processor or blender, pulse garlic until minced."
+    prepTime: "PT1M"
+  - "@type": "HowToStep"
+    name: "Blend aioli"
+    text: "Add avocado, lemon juice, and mayo. Process until smooth, scraping down sides as needed. Season with salt and pepper to taste."
+    prepTime: "PT4M"
 ---
-
-## Ingredients
-
-- [ ] 3-4 cloves [[garlic]]
-- [ ] 1 large ripe [[avocado]]
-- [ ] 1 ½ tsp fresh [[lemon juice]]
-- [ ] ¼ cup vegan [[mayo]]
-- [ ] [[salt]] & [[pepper]], to taste
-
-## Directions
-
-1. In a food processor or blender, pulse garlic until minced.
-2. Add rest of ingredients and process until smooth, scraping down as needed. Add salt and pepper to taste.

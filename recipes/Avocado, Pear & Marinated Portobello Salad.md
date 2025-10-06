@@ -1,34 +1,139 @@
 ---
-tags:
-  - type/recipe
-  - type/recipe
+"@context": "https://schema.org"
+"@type": "Recipe"
+name: "Avocado, Pear & Marinated Portobello Salad"
+description: "Fresh salad featuring grilled marinated portobello mushrooms, ripe pears, creamy avocado, and toasted walnuts with a tangy apple cider vinaigrette."
+datePublished: "2025-10-04"
+prepTime: "PT30M"
+cookTime: "PT10M"
+totalTime: "PT40M"
+recipeCategory: ["Salad", "Main Course"]
+recipeCuisine: ["American"]
+keywords: ["salad", "portobello", "vegan", "vegetarian", "pear", "avocado"]
+recipeYield: "4 servings"
+recipeIngredient:
+  - "@type": "PropertyValue"
+    name: "apple-cider-vinegar"
+    value: "0.25"
+    unitText: "cup"
+    description: "apple cider vinegar"
+    preparation: "none"
+    atomicIngredientRef: "[[apple-cider-vinegar]]"
+  - "@type": "PropertyValue"
+    name: "olive-oil"
+    value: "3"
+    unitText: "tbsp"
+    description: "olive oil"
+    preparation: "none"
+    atomicIngredientRef: "[[olive-oil]]"
+  - "@type": "PropertyValue"
+    name: "balsamic-vinegar"
+    value: "2"
+    unitText: "tbsp"
+    description: "balsamic vinegar"
+    preparation: "none"
+    atomicIngredientRef: "[[balsamic-vinegar]]"
+  - "@type": "PropertyValue"
+    name: "applesauce"
+    value: "2"
+    unitText: "tbsp"
+    description: "unsweetened applesauce"
+    preparation: "none"
+    atomicIngredientRef: "[[applesauce]]"
+    optional: true
+    substitutes: ["1 tbsp olive oil + splash balsamic vinegar"]
+  - "@type": "PropertyValue"
+    name: "maple-syrup"
+    value: "1"
+    unitText: "tbsp"
+    description: "maple syrup"
+    preparation: "none"
+    atomicIngredientRef: "[[maple-syrup]]"
+  - "@type": "PropertyValue"
+    name: "dijon-mustard"
+    value: "1.5"
+    unitText: "tsp"
+    description: "Dijon mustard"
+    preparation: "none"
+    atomicIngredientRef: "[[dijon-mustard]]"
+  - "@type": "PropertyValue"
+    name: "garlic"
+    value: "2"
+    unitText: "cloves"
+    description: "garlic cloves"
+    preparation: "minced"
+    atomicIngredientRef: "[[garlic]]"
+  - "@type": "PropertyValue"
+    name: "salt"
+    value: "0.25"
+    unitText: "tsp"
+    description: "salt"
+    preparation: "none"
+    atomicIngredientRef: "[[salt]]"
+  - "@type": "PropertyValue"
+    name: "black-pepper"
+    value: "to taste"
+    unitText: "tsp"
+    description: "black pepper"
+    preparation: "none"
+    atomicIngredientRef: "[[black-pepper]]"
+  - "@type": "PropertyValue"
+    name: "portobello-mushrooms"
+    value: "2"
+    unitText: "large"
+    description: "large portobello mushrooms"
+    preparation: "cleaned, stems removed"
+    atomicIngredientRef: "[[portobello-mushrooms]]"
+  - "@type": "PropertyValue"
+    name: "red-onion"
+    value: "1"
+    unitText: "small"
+    description: "small red onion"
+    preparation: "thinly sliced"
+    atomicIngredientRef: "[[red-onion]]"
+  - "@type": "PropertyValue"
+    name: "mixed-greens"
+    value: "1"
+    unitText: "package"
+    description: "mixed greens"
+    preparation: "none"
+    atomicIngredientRef: "[[mixed-greens]]"
+  - "@type": "PropertyValue"
+    name: "pears"
+    value: "2"
+    unitText: "ripe"
+    description: "ripe pears"
+    preparation: "peeled, cored and chopped"
+    atomicIngredientRef: "[[pears]]"
+  - "@type": "PropertyValue"
+    name: "avocado"
+    value: "1"
+    unitText: "whole"
+    description: "avocado"
+    preparation: "pitted and chopped"
+    atomicIngredientRef: "[[avocado]]"
+  - "@type": "PropertyValue"
+    name: "walnuts"
+    value: "0.33"
+    unitText: "cup"
+    description: "walnuts"
+    preparation: "toasted"
+    atomicIngredientRef: "[[walnuts]]"
+recipeInstructions:
+  - "@type": "HowToStep"
+    name: "Make vinaigrette"
+    text: "In a small bowl, whisk together apple cider vinegar, olive oil, balsamic vinegar, applesauce, maple syrup, Dijon mustard, minced garlic, salt, and pepper. Adjust to taste."
+    prepTime: "PT5M"
+  - "@type": "HowToStep"
+    name: "Marinate mushrooms"
+    text: "Clean mushrooms and pat dry; remove stems. Optionally slice caps now or after cooking. In a large bowl, combine mushroom caps, sliced onion and half of the vinaigrette. Toss until fully coated. Marinate for 20-30 minutes, tossing every 5-10 minutes."
+    prepTime: "PT25M"
+  - "@type": "HowToStep"
+    name: "Grill mushrooms"
+    text: "Heat a pan over medium-high heat. Place mushrooms and onion in pan and grill for 3-6 minutes per side, until tender. Reduce heat if necessary. Slice mushrooms into strips if not already done."
+    cookTime: "PT10M"
+  - "@type": "HowToStep"
+    name: "Assemble salad"
+    text: "Combine mixed greens, grilled mushrooms and onions, chopped pears, avocado, and toasted walnuts. Toss with remaining vinaigrette."
+    prepTime: "PT5M"
 ---
-
-
-## Ingredients
-
-- [ ] for the vinaigrette (makes ¾ cup):
-	- [ ] ¼ cup [[apple cider vinegar]]
-	- [ ] 3 tbsp [[olive oil]]
-	- [ ] 2 tbsp [[balsamic vinegar]]
-	- [ ] 2 tbsp unsweetened [[applesauce]] (can omit & replace with 1 tbsp olive oil + splash balsamic vin.)
-	- [ ] 1 tbsp [[maple syrup]]
-	- [ ] 1 ½ tsp [[dijon mustard]]
-	- [ ] 2 cloves [[garlic]]
-	- [ ] ¼ tsp [[salt]] & [[ingredients/pepper]], to taste
-- [ ] for the salad:
-	- [ ] 2 large [[portobello mushrooms]]
-	- [ ] 1 small [[red onion]], thinly sliced
-	- [ ] 1 package [[mixed greens]]
-	- [ ] 2 ripe [[pears]], peeled, cored and chopped
-	- [ ] 1 [[avocado]], pitted and chopped
-	- [ ] 1/3 cup [[walnuts]], toasted
-
-
-## Directions
-
-1. Make the Vinaigrette: In a small bowl, whisk together all of the ingredients, or simply combine them in a jar and shake. Will keep in an airtight container in the fridge for at least 2 weeks. Feel free to adjust this dressing to suit your tastes!
-2. Clean mushrooms and pat dry; remove stems and either discard or reserve for another use (stir fry etc). You can decide to either slice the mushroom caps now or wait until after cooking (step 4 below); mushrooms will soak in more marinade if sliced at this stage.
-3. In a large bowl (or sealed container) combine mushroom caps, onion and half of the vinaigrette and toss until fully coated. Marinate mixture for 20-30 mins, tossing every 5-10 mins.
-4. Heat a pan over med-high heat. Place mushroom and onion in pan and grill for 3-6 mins per side, until veggies are tender. Reduce heat if necessary. Slice into strips if not already done.
-5. Assemble all salad ingredients & toss to combine!

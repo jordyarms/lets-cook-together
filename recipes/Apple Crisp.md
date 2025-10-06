@@ -1,19 +1,77 @@
 ---
-tags:
-  - meal/dessert
-  - type/recipe
+"@context": "https://schema.org"
+"@type": "Recipe"
+name: "Apple Crisp"
+description: "Classic apple crisp with a crunchy oat topping. Simple, comforting dessert with cinnamon-spiced apples."
+datePublished: "2025-10-04"
+prepTime: "PT15M"
+cookTime: "PT30M"
+totalTime: "PT45M"
+recipeCategory: ["Dessert"]
+recipeCuisine: ["American"]
+keywords: ["apple-crisp", "dessert", "oats", "baked-fruit"]
+recipeYield: "6 servings"
+recipeIngredient:
+  - "@type": "PropertyValue"
+    name: "apples"
+    value: "6"
+    unitText: "cups"
+    description: "apples"
+    preparation: "peeled and sliced"
+    atomicIngredientRef: "[[apples]]"
+  - "@type": "PropertyValue"
+    name: "oats"
+    value: "1"
+    unitText: "cup"
+    description: "uncooked oats"
+    preparation: "none"
+    atomicIngredientRef: "[[oats]]"
+  - "@type": "PropertyValue"
+    name: "brown-sugar"
+    value: "0.5"
+    unitText: "cup"
+    description: "brown sugar"
+    preparation: "firmly packed"
+    atomicIngredientRef: "[[brown-sugar]]"
+  - "@type": "PropertyValue"
+    name: "flour"
+    value: "0.33"
+    unitText: "cup"
+    description: "flour"
+    preparation: "none"
+    atomicIngredientRef: "[[flour]]"
+  - "@type": "PropertyValue"
+    name: "butter"
+    value: "0.33"
+    unitText: "cup"
+    description: "butter"
+    preparation: "melted"
+    atomicIngredientRef: "[[butter]]"
+  - "@type": "PropertyValue"
+    name: "cinnamon"
+    value: "1"
+    unitText: "tsp"
+    description: "cinnamon"
+    preparation: "none"
+    atomicIngredientRef: "[[cinnamon]]"
+  - "@type": "PropertyValue"
+    name: "salt"
+    value: "0.5"
+    unitText: "tsp"
+    description: "salt"
+    preparation: "none"
+    atomicIngredientRef: "[[salt]]"
+recipeInstructions:
+  - "@type": "HowToStep"
+    name: "Prepare apples"
+    text: "Preheat oven to 350°F. Spoon sliced apples into baking dish."
+    prepTime: "PT5M"
+  - "@type": "HowToStep"
+    name: "Make topping"
+    text: "Combine oats, brown sugar, flour, melted butter, cinnamon, and salt, mixing until crumbly."
+    prepTime: "PT5M"
+  - "@type": "HowToStep"
+    name: "Assemble and bake"
+    text: "Sprinkle crumb mixture over apples. Bake for 30 minutes until topping is golden and apples are tender."
+    cookTime: "PT30M"
 ---
-## Ingredients
-- [ ] [M.::6 cups] peeled and sliced [[apples]]
-- [ ] [M.::1 cup] uncooked [[oats]]
-- [ ] [M.::1/2 cup] firmly packed [[brown sugar]]
-- [ ] [M.::1/3 cup]  [[flour]]
-- [ ] [M.::1/3 cup]  [[butter]] -melted
-- [ ] [M.::1 tsp]  [[cinnamon]]
-- [ ] [M.::1/2 tsp]  [[salt]]
-
-## Directions
-- Spoon apples into baking dish
-- Combine remaining ingredients, mixing until crumbly
-- Sprinkle crumb mixture over apples
-- Bake 350°C for around 30 mins
